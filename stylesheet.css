@@ -1,0 +1,135 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 233px;
+  padding-bottom: 40px;
+  height: 93px;
+  width: 272px;
+}
+
+.form {
+  text-align: center;
+}
+
+.mic-logo {
+  width: 25px;
+  height: 28px;
+  position: absolute;
+  top: 138px;
+  right: 585px;
+}
+
+input {
+  width: 443px;
+  height: 38px;
+}
+
+.top-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 20px;
+  right: 25px;
+}
+
+li {
+  float: left;
+}
+
+.top-nav a {
+  display: block;
+  padding: 8px;
+  text-decoration: none;
+}
+
+.top-nav a:visited {
+  color: black;
+}
+
+.top-nav a:hover {
+  text-decoration: underline;
+}
+
+#sign-in {
+  background: #4285f4;
+  border-radius: 4%;
+}
+
+#sign-in a {
+  color: white;
+}
+
+#sign-in a:hover {
+  text-decoration: none;
+}
+
+.bottom-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0;
+  position: absolute;
+  bottom: 0;
+  background: #e4e4e4;
+  width: 100%;
+}
+
+.bottom-nav a {
+  color: #666;
+  text-decoration: none;
+}
+
+.bottom-nav a:visited {
+  color: #666
+}
+
+.bottom-nav a:hover {
+  text-decoration: underline;
+}
+
+.bottom-nav a {
+  display: block;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.left a {
+  padding-left: 20px;
+}
+
+.right a {
+  padding-right: 20px;
+}
+
+.buttons {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0;
+  position: absolute;
+  left: 650px;
+}
+
+.buttons a {
+  text-decoration: none;
+  color: #757575;
+  display: block;
+  margin: 0;
+  padding: 8px 15px;
+  background: #f2f2f2;
+  border-radius: 2p%;
+}
+
+.buttons a:hover {
+  border: 1px solid #757575;
+}
+
+.buttons li {
+  padding-left: 8px;
+}
