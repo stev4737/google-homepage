@@ -1,3 +1,3 @@
 # google-homepage
-my name is Steven and this is my
+my name is steven and this is my
 first repository
